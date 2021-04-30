@@ -1,0 +1,112 @@
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Guna.UI.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\JEINER\Desktop\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Guna.UI.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+D:\Sistemas 2020 JEINER\Proyectos Pequeños\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Ian Emile\OneDrive\Escritorio\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Ian Emile\OneDrive\Escritorio\Nueva carpeta\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Filtro.resources
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Registrar.resources
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\Adeury09\Downloads\Telegram Desktop\Reconocimiento1\Reconocimiento\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Inicio.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Inicio.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Bg.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registro.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\lisan\OneDrive\Escritorio\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Bg.resources
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registro.resources
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Inicio.resources
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\Belkis\Desktop\ReconocimientoV3\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojAssemblyReference.cache
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Bg.resources
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Frm_Reconocimiento.resources
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registro.resources
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Inicio.resources
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe.licenses
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\derec\Downloads\Reconocimiento facial\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
